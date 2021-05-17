@@ -1,3 +1,6 @@
+
+[![Python application test with Github Actions](https://github.com/vinimathur/multicloud-continuous-integration/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/vinimathur/multicloud-continuous-integration/actions/workflows/pythonapp.yml)
+
 # multicloud-continuous-integration
 Multi-Cloud Continuous Integration
 
